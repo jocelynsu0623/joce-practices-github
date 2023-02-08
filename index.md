@@ -8,6 +8,6 @@ This is the middle portion that's skimmed through
 
 An arc!
 
-## The Trafic End...
+### The Tragic End...
 
-of the Beginning
+...of the Beginning
